@@ -173,10 +173,7 @@
 
 <div class="register-container">
 
-    <!-- <div class="brand">
-        <h1>KerjainYUK</h1>
-        <p>Temukan kerjaan yang cocok untukmu.</p>
-    </div> -->
+
 
     <div class="register-card">
 
