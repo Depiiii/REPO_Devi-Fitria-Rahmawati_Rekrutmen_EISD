@@ -21,7 +21,7 @@
         <div class="login-card">
 
             <div class="login-title">
-                <h2>Selamat Datang 👋</h2>
+                <h2>Selamat Datang </h2>
                 <p>Silakan masuk ke akun kamu.</p>
             </div>
 

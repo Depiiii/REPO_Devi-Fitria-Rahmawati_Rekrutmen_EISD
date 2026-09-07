@@ -88,14 +88,6 @@
 
         <div class="sidebar-section">
 
-            <div class="sidebar-title">
-                Akun
-            </div>
-
-            <div class="sidebar-link">
-                {{ Auth::user()->nama }}
-            </div>
-
             <form
                 action="/logout"
                 method="POST"
